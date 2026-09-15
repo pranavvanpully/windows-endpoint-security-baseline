@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="https://readmeforge.natrajx.in/api/banner?text=WINDOWS+ENDPOINT+SECURITY&subtext=Windows+%E2%80%A2+PowerShell+%E2%80%A2+Endpoint+Security+%E2%80%A2+SOC+Investigation&metal=chrome&type=wave&height=300&width=1200&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic&border=none&borderWidth=2" alt="Windows Endpoint Security" width="100%">
+
+<br>
+
+<img src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11">
+<img src="https://img.shields.io/badge/Focus-Endpoint%20Security-1F6FEB?style=for-the-badge" alt="Endpoint Security">
+<img src="https://img.shields.io/badge/SOC-Investigation-111827?style=for-the-badge" alt="SOC Investigation">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+
+</div>
 # Windows Endpoint Security Baseline
 
 A practical Windows endpoint security baseline assessment focused on identifying normal system configuration, security controls, processes, services, persistence mechanisms, event activity, and network exposure.
