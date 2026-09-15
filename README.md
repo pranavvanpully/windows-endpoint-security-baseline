@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://readmeforge.natrajx.in/api/banner?text=WINDOWS+ENDPOINT+SECURITY&subtext=Windows+%E2%80%A2+PowerShell+%E2%80%A2+Endpoint+Security+%E2%80%A2+SOC+Investigation&type=wave&height=280&width=1200&animation=none&align=center&section=header&theme=dark&fontFamily=Rajdhani&subtextFont=Rajdhani&visualStyle=cyber&border=none&borderWidth=0" alt="Windows Endpoint Security" width="100%">
+<img src="https://readmeforge.natrajx.in/api/banner?text=WINDOWS+ENDPOINT+SECURITY&subtext=Windows+%E2%80%A2+PowerShell+%E2%80%A2+Endpoint+Security+%E2%80%A2+SOC+Investigation&type=geometric&height=260&width=1200&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=neon&border=none&borderWidth=0" alt="Windows Endpoint Security" width="100%">
 
 <br>
 
-<img src="https://img.shields.io/badge/WINDOWS%2011-0B5FFF?style=flat-square&logo=windows&logoColor=white" alt="Windows 11">
-<img src="https://img.shields.io/badge/ENDPOINT%20SECURITY-00B8D9?style=flat-square" alt="Endpoint Security">
-<img src="https://img.shields.io/badge/SOC%20INVESTIGATION-263238?style=flat-square" alt="SOC Investigation">
-<img src="https://img.shields.io/badge/POWERSHELL-0078D4?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/WINDOWS%2011-161616?style=flat-square&logo=windows&logoColor=E53935" alt="Windows 11">
+<img src="https://img.shields.io/badge/ENDPOINT%20SECURITY-161616?style=flat-square&labelColor=161616&color=E53935" alt="Endpoint Security">
+<img src="https://img.shields.io/badge/SOC%20INVESTIGATION-161616?style=flat-square&labelColor=161616&color=E53935" alt="SOC Investigation">
+<img src="https://img.shields.io/badge/POWERSHELL-161616?style=flat-square&logo=powershell&logoColor=E53935" alt="PowerShell">
 
 </div>
+
 
 
 # Windows Endpoint Security Baseline
