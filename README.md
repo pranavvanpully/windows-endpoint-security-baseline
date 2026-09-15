@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Windows Endpoint Security Banner" />
+  <img src="banner/banner.png" alt="Windows Endpoint Security Banner" />
 </p>
 
 <div align="center">
