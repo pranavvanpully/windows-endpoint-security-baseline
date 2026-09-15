@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Windows Endpoint Security Baseline" width="100%">
+</p>
+
 # Windows Endpoint Security Baseline
 
 A practical Windows endpoint security baseline assessment focused on identifying normal system configuration, security controls, processes, services, persistence mechanisms, event activity, and network exposure.
