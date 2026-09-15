@@ -1,16 +1,9 @@
-<div align="center">
-
-<img src="https://readmeforge.natrajx.in/api/banner?text=WINDOWS+ENDPOINT+SECURITY&subtext=Windows+%E2%80%A2+PowerShell+%E2%80%A2+Endpoint+Security+%E2%80%A2+SOC+Investigation&type=geometric&height=260&width=1200&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=neon&border=none&borderWidth=0" alt="Windows Endpoint Security" width="100%">
-
-<br>
-
-<img src="https://img.shields.io/badge/WINDOWS%2011-161616?style=flat-square&logo=windows&logoColor=E53935" alt="Windows 11">
-<img src="https://img.shields.io/badge/ENDPOINT%20SECURITY-161616?style=flat-square&labelColor=161616&color=E53935" alt="Endpoint Security">
-<img src="https://img.shields.io/badge/SOC%20INVESTIGATION-161616?style=flat-square&labelColor=161616&color=E53935" alt="SOC Investigation">
-<img src="https://img.shields.io/badge/POWERSHELL-161616?style=flat-square&logo=powershell&logoColor=E53935" alt="PowerShell">
-
-</div>
-
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.a202dd68-3c39-4ba4-90bc-3873577b02fc.png" alt="Windows Endpoint Security Banner" />
+</p>
+<p align="center">
+  <b>🔒 Securing Windows Endpoints with Advanced Defense</b>
+</p>
 
 
 # Windows Endpoint Security Baseline
