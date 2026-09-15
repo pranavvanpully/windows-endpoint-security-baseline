@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Windows Endpoint Security Banner" />
+</p>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11">
