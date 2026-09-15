@@ -4,8 +4,6 @@
 <img src="https://img.shields.io/badge/Focus-Endpoint%20Security-1F6FEB?style=for-the-badge" alt="Endpoint Security">
 <img src="https://img.shields.io/badge/SOC-Investigation-111827?style=for-the-badge" alt="SOC Investigation">
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-<img src="https://img.shields.io/badge/Threat%20Detection-Wazuh-0A84FF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
-<img src="https://img.shields.io/badge/Monitoring-Splunk-FFB900?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
 
 </div>
 
