@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Windows Endpoint Security Baseline" width="100%">
-</p>
+![Windows Endpoint Security Baseline](https://readmeforge.natrajx.in/api/banner?text=WINDOWS+ENDPOINT+SECURITY+BASELINE&subtext=Endpoint+Security+%E2%80%A2+Windows+%E2%80%A2+PowerShell+%E2%80%A2+SOC+Investigation&metal=chrome&type=wave&height=200&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic&border=none&borderWidth=2)
 
 # Windows Endpoint Security Baseline
 
