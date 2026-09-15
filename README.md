@@ -1,9 +1,13 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.a202dd68-3c39-4ba4-90bc-3873577b02fc.png" alt="Windows Endpoint Security Banner" />
-</p>
-<p align="center">
-  <b>🔒 Securing Windows Endpoints with Advanced Defense</b>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11">
+<img src="https://img.shields.io/badge/Focus-Endpoint%20Security-1F6FEB?style=for-the-badge" alt="Endpoint Security">
+<img src="https://img.shields.io/badge/SOC-Investigation-111827?style=for-the-badge" alt="SOC Investigation">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/Threat%20Detection-Wazuh-0A84FF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
+<img src="https://img.shields.io/badge/Monitoring-Splunk-FFB900?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
+
+</div>
 
 
 # Windows Endpoint Security Baseline
