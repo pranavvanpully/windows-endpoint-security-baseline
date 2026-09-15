@@ -221,8 +221,6 @@ The baseline included Windows listening ports such as:
 
 * TCP 135
 * TCP 445
-* TCP 5040
-* Dynamic Windows RPC ports
 
 Most observed established outbound connections used HTTP/HTTPS.
 
