@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="banner/banner.png" alt="Windows Endpoint Security Banner" />
-</p>
-
-
 <p align="center"> <img src="banner/banner.png" alt="Windows Endpoint Security Banner" /> </p>
 
 <div align="center">
