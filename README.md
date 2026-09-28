@@ -12,6 +12,35 @@
 </div>
 
 
+<div align="center">
+
+<!-- Platform & Environment -->
+
+<img src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11">
+<img src="https://img.shields.io/badge/Environment-Cybersecurity%20Lab-1F6FEB?style=for-the-badge" alt="Cybersecurity Lab">
+
+<!-- Tools & Technologies -->
+
+<img src="https://img.shields.io/badge/SIEM-Splunk-FFB900?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
+<img src="https://img.shields.io/badge/Language-SPL-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="SPL">
+<img src="https://img.shields.io/badge/Automation-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+
+<!-- Focus Areas -->
+
+<img src="https://img.shields.io/badge/Focus-Endpoint%20Security-1F6FEB?style=for-the-badge" alt="Endpoint Security">
+<img src="https://img.shields.io/badge/SOC-Investigation-111827?style=for-the-badge" alt="SOC Investigation">
+<img src="https://img.shields.io/badge/Focus-Detection%20Engineering-7C3AED?style=for-the-badge" alt="Detection Engineering">
+<img src="https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-orange?style=for-the-badge" alt="MITRE ATT&CK">
+
+<!-- Project Type -->
+
+<img src="https://img.shields.io/badge/Project-Lab%20Simulation-success?style=for-the-badge" alt="Lab Simulation">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Completed">
+
+</div>
+
+
+
 
 # Windows Endpoint Security Baseline
 
